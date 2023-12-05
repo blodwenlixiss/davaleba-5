@@ -16,3 +16,59 @@ body {
   border: 1px solid white;
   color: white;
 }
+
+.main-img img {
+  max-width: 100%;
+}
+
+.sect-block {
+  padding: 10px 30px;
+}
+.sect-list {
+  list-style-type: none;
+}
+.sect-list a {
+  text-decoration: none;
+  color: black;
+}
+.underline {
+  display: block;
+}
+.product-block {
+  /* display: flex; */
+  padding: 30px;
+}
+
+h3 {
+  padding: 0px 0px 0px 30px;
+}
+
+.product-container {
+  box-sizing: border-box;
+  padding: 15px;
+  border: 1px solid black;
+}
+.product-img {
+  padding: 15px;
+  max-width: 50%;
+}
+.product-container span {
+  display: block;
+  color: black;
+  font-weight: bold;
+}
+.add-to-cart {
+  display: block;
+  padding: 10px 20px;
+  border: 1px solid #b21751;
+  border-radius: 50px;
+  background-color: white;
+}
+.sort select {
+  background-color: white;
+  border: none;
+  font-weight: normal;
+}
+.sort label {
+  font-weight: normal;
+}
