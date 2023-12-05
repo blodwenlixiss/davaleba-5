@@ -35,7 +35,8 @@ body {
   display: block;
 }
 .product-section {
-  /* display: flex; */
+  /* display: flex;
+  flex-wrap: wrap; */
   padding: 30px;
 }
 
@@ -46,7 +47,7 @@ body {
 }
 .product-img {
   padding: 15px;
-  max-width: 50%;
+  max-width: 500px;
 }
 .product-container span {
   display: block;
