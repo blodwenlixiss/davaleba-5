@@ -21,7 +21,7 @@ body {
   max-width: 100%;
 }
 
-.sect-block {
+.section-block {
   padding: 10px 30px;
 }
 .sect-list {
@@ -31,16 +31,12 @@ body {
   text-decoration: none;
   color: black;
 }
-.underline {
+.sect-list span {
   display: block;
 }
-.product-block {
+.product-section {
   /* display: flex; */
   padding: 30px;
-}
-
-h3 {
-  padding: 0px 0px 0px 30px;
 }
 
 .product-container {
